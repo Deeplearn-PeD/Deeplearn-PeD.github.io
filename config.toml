@@ -2,3 +2,6 @@ baseURL = 'http://deeplearn.ltd/'
 languageCode = 'en-us'
 title = 'DeepLearn - Focused AI'
 theme = 'ananke'
+
+[Params]
+site_logo = "logo.svg"

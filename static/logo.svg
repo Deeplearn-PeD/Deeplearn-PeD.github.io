@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="100"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:export-filename="/home/fccoelho/Documentos/Software_projects/deeplearn/static/logo.png"
+   inkscape:export-xdpi="119.9485"
+   inkscape:export-ydpi="119.9485"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12">
+    <filter
+       inkscape:label="Leaves"
+       inkscape:menu="Scatter"
+       inkscape:menu-tooltip="Leaves on the ground in Fall, or living foliage"
+       style="color-interpolation-filters:sRGB;"
+       id="filter12906"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feTurbulence
+         baseFrequency="0.09"
+         numOctaves="5"
+         type="fractalNoise"
+         result="result6"
+         id="feTurbulence12890" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 4.9 -2.9 "
+         result="result5"
+         in="result6"
+         id="feColorMatrix12892" />
+      <feComposite
+         in2="result5"
+         operator="in"
+         in="SourceGraphic"
+         id="feComposite12894" />
+      <feMorphology
+         result="result3"
+         radius="6"
+         operator="dilate"
+         id="feMorphology12896" />
+      <feTurbulence
+         baseFrequency="0.2"
+         numOctaves="1"
+         type="fractalNoise"
+         result="result91"
+         id="feTurbulence12898" />
+      <feDisplacementMap
+         result="result4"
+         scale="15"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result3"
+         in2="result91"
+         id="feDisplacementMap12900" />
+      <feComposite
+         in2="result4"
+         operator="arithmetic"
+         result="result2"
+         k1="0.5"
+         k3="1"
+         id="feComposite12902" />
+      <feConvolveMatrix
+         order="3 3"
+         kernelMatrix="1 0 0 0 2 0 0 0 -1 "
+         targetX="0"
+         targetY="0"
+         divisor="1.5"
+         edgeMode="duplicate"
+         in="result2"
+         id="feConvolveMatrix12904" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="6.44"
+     inkscape:cx="-20.652174"
+     inkscape:cy="50"
+     inkscape:window-width="3000"
+     inkscape:window-height="1835"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <rect
+     x="10"
+     y="10"
+     width="80"
+     height="80"
+     fill="#0072C6"
+     id="rect2" />
+  <circle
+     cx="50.034348"
+     cy="49.943684"
+     r="40"
+     fill="#ffffff"
+     id="circle4"
+     style="filter:url(#filter12906)" />
+  <text
+     x="49.964195"
+     y="73.537704"
+     font-size="20"
+     text-anchor="middle"
+     fill="#000000"
+     id="text6"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Entangled BRK';-inkscape-font-specification:'Entangled BRK'">DL</text>
+</svg>
