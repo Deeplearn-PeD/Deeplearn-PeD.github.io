@@ -1,1 +1,1 @@
-# Deeplearn-PeD.github.io
+# [Deeplearn](https://deeplearn.ltd)
