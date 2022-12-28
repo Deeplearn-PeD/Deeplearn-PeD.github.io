@@ -1,4 +1,4 @@
-baseURL = 'http://deeplearn.ltd/'
+baseURL = 'https://deeplearn.ltd/'
 languageCode = 'en-us'
 title = 'DeepLearn Focused AI'
 theme = 'ananke'
