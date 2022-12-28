@@ -5,10 +5,10 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="logo.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    inkscape:export-filename="/home/fccoelho/Documentos/Software_projects/deeplearn/static/logo.png"
-   inkscape:export-xdpi="119.9485"
-   inkscape:export-ydpi="119.9485"
+   inkscape:export-xdpi="479.66232"
+   inkscape:export-ydpi="479.66232"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -77,6 +77,32 @@
          in="result2"
          id="feConvolveMatrix12904" />
     </filter>
+    <filter
+       inkscape:label="Evanescent"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Blur the contents of objects, preserving the outline and adding progressive transparency at edges"
+       style="color-interpolation-filters:sRGB;"
+       id="filter33816"
+       x="-0.09"
+       y="-0.09"
+       width="1.18"
+       height="1.18">
+      <feGaussianBlur
+         result="result6"
+         stdDeviation="3"
+         in="SourceGraphic"
+         id="feGaussianBlur33810" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result7"
+         in="SourceGraphic"
+         id="feColorMatrix33812" />
+      <feComposite
+         operator="in"
+         in="result6"
+         in2="result7"
+         id="feComposite33814" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="namedview10"
@@ -102,7 +128,8 @@
      width="80"
      height="80"
      fill="#0072C6"
-     id="rect2" />
+     id="rect2"
+     style="filter:url(#filter33816)" />
   <circle
      cx="50.034348"
      cy="49.943684"
