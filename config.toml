@@ -1,6 +1,6 @@
 baseURL = 'https://deeplearn.ltd/'
 languageCode = 'en-us'
-title = 'DeepLearn Focused AI'
+title = 'DeepLearn AI for Research'
 theme = 'ananke'
 googleAnalytics = ""
 enableRobotsTXT = true
