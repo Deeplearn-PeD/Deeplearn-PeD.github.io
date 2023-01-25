@@ -1,12 +1,20 @@
 baseURL = 'https://deeplearn.ltd/'
 languageCode = 'en-us'
-title = 'DeepLearn AI for Research'
+defaultContentLanguage = 'pt'
+title = 'DeepLearn Research'
 theme = 'ananke'
 googleAnalytics = ""
 enableRobotsTXT = true
 omit_header_text = true
+copyright = 'DeepLearn LTD'
 
 [Params]
-site_logo = "logo.png"
+site_logo = "logo2_text.png"
 favicon = 'favicon.png'
 background_color_class = 'bg-dark-blue'
+
+[languages.en]
+    title = 'DeepLearn Research & Development'
+
+[languages.pt]
+    title = 'DeepLearn Pesquisa e Desenvolvimento'
