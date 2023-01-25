@@ -1,6 +1,6 @@
 baseURL = 'https://deeplearn.ltd/'
 languageCode = 'en-us'
-defaultContentLanguage = 'pt'
+defaultContentLanguage = 'en'
 title = 'DeepLearn Research'
 theme = 'ananke'
 googleAnalytics = ""
