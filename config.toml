@@ -8,6 +8,11 @@ enableRobotsTXT = true
 omit_header_text = true
 copyright = 'DeepLearn LTD'
 
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
 [Params]
 site_logo = "logo2_text.png"
 favicon = 'favicon2.png'
