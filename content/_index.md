@@ -1,5 +1,5 @@
 ---
-title: "Deeplearn R&D"
+title: "Deeplearn Research & Development"
 date: 2023-01-25T16:55:13-03:00
 draft: false
 ---
