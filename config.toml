@@ -14,9 +14,9 @@ copyright = 'DeepLearn LTD'
   filename = "sitemap.xml"
 
 [Params]
-site_logo = "logo2_text.png"
-favicon = 'favicon2.png'
-background_color_class = 'bg-moon-gray'
+site_logo = "logo.png"
+favicon = 'favicon.png'
+background_color_class = 'bg-blue'
 # body_classes = "avenir bg-black"
 
 [languages.en]
