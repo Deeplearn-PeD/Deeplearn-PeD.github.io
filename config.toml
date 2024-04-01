@@ -16,7 +16,8 @@ copyright = 'DeepLearn LTD'
 [Params]
 site_logo = "logo.png"
 favicon = 'favicon.png'
-background_color_class = 'bg-blue'
+# background_color_class = 'my-back-blue'#'bg-blue'
+# background_color = "#0573c8"
 # body_classes = "avenir bg-black"
 
 [languages.en]
