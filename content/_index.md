@@ -16,5 +16,3 @@ Deeplearn is an AI first company. This means that our mission is to develop the 
 2. **AI Development**: We develop AI models that are tailored to our customers' needs. Our AI models are state-of-the-art and are constantly learning and improving.
 3. **AI Training**: We provide training services to help our customers understand how AI works and how it can be used to solve their problems. We offer both online and in-person training sessions.
 
-## Contact Us
-{{< form-contact action="https://formspree.io/deeplearn@deeplearn.ltd" >}}
