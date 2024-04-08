@@ -4,6 +4,7 @@ defaultContentLanguage = 'en'
 title = ''
 theme = 'ananke'
 SectionPagesMenu = "main"
+paginate = 5
 googleAnalytics = ""
 enableRobotsTXT = true
 omit_header_text = true
@@ -14,15 +15,14 @@ copyright = 'DeepLearn LTD'
   priority = 0.5
   filename = "sitemap.xml"
 
-[Params]
+[params]
   site_logo = "logo2.png"
   favicon = 'favicon2.png'
   description = 'DeepLearn Research & Development'
-  [ananke_socials]
-    github.name = "Github"
-    github.url = "https://github.com/deeplearn-P&D/"
-    github.label = "Our Github Organization"
-    github.icon = "fab fa-github"
+ [[params.ananke_socials]]
+    name = "github"
+    url = "https://github.com/Deeplearn-PeD/"
+    label = "Our Github Organization"
             
  
 
