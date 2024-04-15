@@ -1,9 +1,10 @@
 baseURL = 'https://deeplearn.ltd/'
 languageCode = 'en-us'
 defaultContentLanguage = 'en'
-title = 'DeepLearn Research'
+title = ''
 theme = 'ananke'
 SectionPagesMenu = "main"
+paginate = 5
 googleAnalytics = ""
 enableRobotsTXT = true
 omit_header_text = true
@@ -14,12 +15,16 @@ copyright = 'DeepLearn LTD'
   priority = 0.5
   filename = "sitemap.xml"
 
-[Params]
-site_logo = "logo.png"
-favicon = 'favicon.png'
-# background_color_class = 'my-back-blue'#'bg-blue'
-# background_color = "#0573c8"
-# body_classes = "avenir bg-black"
+[params]
+  site_logo = "logo2.png"
+  favicon = 'favicon2.png'
+  description = 'DeepLearn Research & Development'
+ [[params.ananke_socials]]
+    name = "github"
+    url = "https://github.com/Deeplearn-PeD/"
+    label = "Our Github Organization"
+            
+ 
 
 [languages.en]
     title = 'DeepLearn Research & Development'
