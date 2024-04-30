@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on DeepLearn Research &amp; Development</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://deeplearn.ltd/blog/</link>
     <description>Recent content in Blogs on DeepLearn Research &amp; Development</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>DeepLearn LTD</copyright>
     <lastBuildDate>Mon, 15 Apr 2024 11:38:09 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://deeplearn.ltd/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Joining the Backdrop Build program</title>
-      <link>http://localhost:1313/blog/posts/backdropbuild/</link>
+      <link>https://deeplearn.ltd/blog/posts/backdropbuild/</link>
       <pubDate>Mon, 15 Apr 2024 11:38:09 -0300</pubDate>
-      <guid>http://localhost:1313/blog/posts/backdropbuild/</guid>
-      <description>Deeplearn is joing the Backdrop Build program this year where we a proposing to turn our REG AI into a product. Joining efforts with us in this challenge is Israel Teixeira from NAN systems.</description>
+      <guid>https://deeplearn.ltd/blog/posts/backdropbuild/</guid>
+      <description>Deeplearn is joing the Backdrop Build program this year where we a proposing to turn our REG AI into a product. Joining efforts with us in this challenge is Israel Teixeira from NAN systems.&#xA;Our challenge is to make our AI agent Reggie D. Bot into a product that can be used by the general public. We are excited to be part of this program and we are looking forward to the results of this challenge.</description>
     </item>
     <item>
       <title>New Year&#39;s Challenges</title>
-      <link>http://localhost:1313/blog/posts/new-years-challenges/</link>
+      <link>https://deeplearn.ltd/blog/posts/new-years-challenges/</link>
       <pubDate>Wed, 28 Dec 2022 11:24:56 -0300</pubDate>
-      <guid>http://localhost:1313/blog/posts/new-years-challenges/</guid>
+      <guid>https://deeplearn.ltd/blog/posts/new-years-challenges/</guid>
       <description>2023 is upon us! In this new Year, DeepLearn starts as a new external face to a team os experienced researchers with many years of experience of bringing AI to verticals typically ignored by big AI corporations.&#xA;Along with the usual challenges related to simple survival, we are driven to find and develop new AI solutions than can solve problems instead of creating them (like the Fake news industry). In this road we hope to continue to meet inspiring people that can help us identify the worthy problems and the talented ones that will partner with us to build the solutions.</description>
     </item>
   </channel>
