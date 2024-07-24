@@ -1,0 +1,9 @@
+
+
+:root{
+    --my-back-blue: #0573c8;
+}
+
+.pb3-m{
+    background-color: var(--my-back-blue);
+}   

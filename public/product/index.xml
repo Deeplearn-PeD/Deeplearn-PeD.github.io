@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on DeepLearn Research &amp; Development</title>
+    <link>http://localhost:1313/product/</link>
+    <description>Recent content in Products on DeepLearn Research &amp; Development</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>DeepLearn LTD</copyright>
+    <lastBuildDate>Wed, 24 Jul 2024 10:28:05 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/product/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Regdbot alpha demo website</title>
+      <link>http://localhost:1313/product/regdbot/</link>
+      <pubDate>Wed, 24 Jul 2024 10:28:05 -0300</pubDate>
+      <guid>http://localhost:1313/product/regdbot/</guid>
+      <description>Our database AI specialist Reggie D. Bot is now available for a demo at regdbot.deeplearn.ltd. This is an alpha release, so at this point you can&amp;rsquo;t upload new datasets or register as an user. This release is for testing purposes only.&#xA;Feel free to have a chat with Reggie about the available demo datasets. In the upcoming Beta version, you will be able to upload new datasets, and also connect to external data sources.</description>
+    </item>
+  </channel>
+</rss>
