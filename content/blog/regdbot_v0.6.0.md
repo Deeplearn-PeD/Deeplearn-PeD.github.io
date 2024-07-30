@@ -11,6 +11,8 @@ We have just release a new version of Reggie D. Bot, v0.6.0. This release includ
 The log entry is stored alongside the question that motivated it and an explanation.
 - Many bugfixes and performance improvements.
 
+![screenshot](/reggie_web.webp)
+
 Enjoy the new features and let us know if you have any feedback!
 
 This is still a prototype, but we already have a number of jobs lined up for Reggie! Stay tuned to hear about his journey.
