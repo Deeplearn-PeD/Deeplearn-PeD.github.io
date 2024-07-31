@@ -5,29 +5,28 @@ title = ''
 theme = 'ananke'
 SectionPagesMenu = "main"
 paginate = 5
-googleAnalytics = ""
+googleAnalytics = "G-D8VY8VWJDC"
 enableRobotsTXT = true
 omit_header_text = true
 copyright = 'DeepLearn LTD'
 
 [sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
 
 [params]
-  site_logo = "logo2.png"
-  favicon = 'favicon2.png'
-  description = 'DeepLearn Research & Development'
- [[params.ananke_socials]]
-    name = "github"
-    url = "https://github.com/Deeplearn-PeD/"
-    label = "Our Github Organization"
-            
- 
+site_logo = "logo2.png"
+favicon = 'favicon2.png'
+description = 'DeepLearn Research & Development'
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/Deeplearn-PeD/"
+label = "Our Github Organization"
+
 
 [languages.en]
-    title = 'DeepLearn Research & Development'
+title = 'DeepLearn Research & Development'
 
 [languages.pt]
-    title = 'DeepLearn Pesquisa e Desenvolvimento'
+title = 'DeepLearn Pesquisa e Desenvolvimento'
