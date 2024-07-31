@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://deeplearn.ltd/pt/categories/</loc>
+    <loc>http://localhost:1313/pt/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://deeplearn.ltd/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://deeplearn.ltd/pt/categories/"
+                href="http://localhost:1313/pt/categories/"
                 />
   </url><url>
-    <loc>https://deeplearn.ltd/pt/</loc>
+    <loc>http://localhost:1313/pt/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://deeplearn.ltd/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://deeplearn.ltd/pt/"
+                href="http://localhost:1313/pt/"
                 />
   </url><url>
-    <loc>https://deeplearn.ltd/pt/tags/</loc>
+    <loc>http://localhost:1313/pt/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://deeplearn.ltd/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://deeplearn.ltd/pt/tags/"
+                href="http://localhost:1313/pt/tags/"
                 />
   </url>
 </urlset>
