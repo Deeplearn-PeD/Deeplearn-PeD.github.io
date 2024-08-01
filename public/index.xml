@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>DeepLearn LTD</copyright>
-    <lastBuildDate>Tue, 30 Jul 2024 14:57:06 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 09:12:16 -0300</lastBuildDate>
     <atom:link href="https://deeplearn.ltd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugging_face</title>
+      <link>https://deeplearn.ltd/blog/hugging_face/</link>
+      <pubDate>Thu, 01 Aug 2024 09:12:16 -0300</pubDate>
+      <guid>https://deeplearn.ltd/blog/hugging_face/</guid>
+      <description>We have just created an organization page on Hugging Face. You can find us at DeeplearnRnD. We are planning to release some of our models there, so stay tuned for updates!&#xA;Feel free to follow us there as well!</description>
+    </item>
     <item>
       <title>New RegDBot Release: v0.6.0</title>
       <link>https://deeplearn.ltd/blog/regdbot_v0.6.0/</link>
