@@ -2,46 +2,252 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://deeplearn.ltd/pt/categories/</loc>
+    <loc>http://localhost:1313/pt/blog/posts/aiwrite/</loc>
+    <lastmod>2025-08-21T17:10:06-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/pt/product/aiwrite/</loc>
+    <lastmod>2025-08-21T17:10:06-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/pt/blog/</loc>
+    <lastmod>2025-08-21T17:10:06-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://deeplearn.ltd/categories/"
+                href="http://localhost:1313/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://deeplearn.ltd/pt/categories/"
+                href="http://localhost:1313/pt/blog/"
                 />
   </url><url>
-    <loc>https://deeplearn.ltd/pt/</loc>
+    <loc>http://localhost:1313/pt/product/</loc>
+    <lastmod>2025-08-21T17:10:06-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://deeplearn.ltd/"
+                href="http://localhost:1313/product/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://deeplearn.ltd/pt/"
+                href="http://localhost:1313/pt/product/"
                 />
   </url><url>
-    <loc>https://deeplearn.ltd/pt/tags/</loc>
+    <loc>http://localhost:1313/pt/product/regdbot/</loc>
+    <lastmod>2024-07-24T10:28:05-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://deeplearn.ltd/tags/"
+                href="http://localhost:1313/product/regdbot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://deeplearn.ltd/pt/tags/"
+                href="http://localhost:1313/pt/product/regdbot/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/blog/posts/reggie_demo/</loc>
+    <lastmod>2024-07-24T09:59:57-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/posts/reggie_demo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/blog/posts/reggie_demo/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/blog/posts/backdropbuildv5/</loc>
+    <lastmod>2024-07-18T09:44:12-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/posts/backdropbuildv5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/blog/posts/backdropbuildv5/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/blog/posts/build_started/</loc>
+    <lastmod>2024-05-07T16:50:07-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/posts/build_started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/blog/posts/build_started/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/contact/</loc>
+    <lastmod>2024-05-02T08:12:13-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/contact/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/blog/posts/myfirstdraft/</loc>
+    <lastmod>2024-04-30T09:00:57-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/posts/myfirstdraft/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/blog/posts/myfirstdraft/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/blog/posts/backdropbuild/</loc>
+    <lastmod>2024-04-15T11:38:09-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/posts/backdropbuild/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/blog/posts/backdropbuild/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/team/</loc>
+    <lastmod>2024-04-15T11:12:08-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/team/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/team/libby/</loc>
+    <lastmod>2024-04-15T11:12:08-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/libby/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/team/libby/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/team/reg/</loc>
+    <lastmod>2024-04-08T12:59:31-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/team/reg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/team/reg/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/</loc>
+    <lastmod>2023-01-25T16:55:13-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/blog/posts/new-years-challenges/</loc>
+    <lastmod>2022-12-28T11:24:56-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/posts/new-years-challenges/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/blog/posts/new-years-challenges/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/tags/"
                 />
   </url>
 </urlset>
