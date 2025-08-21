@@ -4,7 +4,7 @@ defaultContentLanguage = 'en'
 title = ''
 theme = 'ananke'
 SectionPagesMenu = "main"
-paginate = 5
+pagination.pagerSize = 5
 googleAnalytics = "G-D8VY8VWJDC"
 enableRobotsTXT = true
 omit_header_text = true
@@ -19,7 +19,8 @@ filename = "sitemap.xml"
 site_logo = "logo2.png"
 favicon = 'favicon2.png'
 description = 'DeepLearn Research & Development'
-[[params.ananke_socials]]
+
+[params.social]
 name = "github"
 url = "https://github.com/Deeplearn-PeD/"
 label = "Our Github Organization"
@@ -27,6 +28,10 @@ label = "Our Github Organization"
 
 [languages.en]
 title = 'DeepLearn Research & Development'
+languageName = 'English'
+weight = 1
 
 [languages.pt]
 title = 'DeepLearn Pesquisa e Desenvolvimento'
+languageName = 'Portuguese'
+weight = 2
