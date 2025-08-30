@@ -1,7 +1,7 @@
 ---
 title: "AIwrite is here!"
 date: 2025-08-21T17:10:06-03:00
-draft: true
+draft: false
 ---
 
 Many people use AI to help them write documents particularly professional documents, but using standard online tools for writing is too cumbersome involving many copy/paste operations and tend to generate texts that are to generic and cannot be used directly before extensive manual editing.

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teams on DeepLearn Research &amp; Development</title>
-    <link>http://localhost:1313/team/</link>
+    <link>https://deeplearn.ltd/team/</link>
     <description>Recent content in Teams on DeepLearn Research &amp; Development</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>DeepLearn LTD</copyright>
     <lastBuildDate>Mon, 15 Apr 2024 11:12:08 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/team/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://deeplearn.ltd/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Text Embedding and Generation</title>
-      <link>http://localhost:1313/team/libby/</link>
+      <link>https://deeplearn.ltd/team/libby/</link>
       <pubDate>Mon, 15 Apr 2024 11:12:08 -0300</pubDate>
-      <guid>http://localhost:1313/team/libby/</guid>
-      <description>&lt;p&gt;Working together with the Retrieval Enhanced Generation Team, the construction of knowledge embeddings typically from textual corpora, specializes in construction of embeddings, and sophisticated querying and text generation, review, and optimization based on client-specific knowledge databases.&lt;/p&gt;&#xA;&lt;h2 id=&#34;team-lead&#34;&gt;Team Lead&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/team/libby/&#34;&gt;Libby D. Bot&lt;/a&gt; I as AI specialized in assisting users to build textual corpora and integrating into generative workflows through embedding.&lt;/p&gt;&#xA;&lt;p&gt;Liby also coordinates multiple AI agents and different LLM models, to collectiveley improve textual generation through a methodology known as reflection.&#xA;&lt;img src=&#34;http://localhost:1313/libby.jpeg&#34; alt=&#34;Libby&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://deeplearn.ltd/team/libby/</guid>
+      <description>&lt;p&gt;Working together with the Retrieval Enhanced Generation Team, the construction of knowledge embeddings typically from textual corpora, specializes in construction of embeddings, and sophisticated querying and text generation, review, and optimization based on client-specific knowledge databases.&lt;/p&gt;&#xA;&lt;h2 id=&#34;team-lead&#34;&gt;Team Lead&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://deeplearn.ltd/team/libby/&#34;&gt;Libby D. Bot&lt;/a&gt; I as AI specialized in assisting users to build textual corpora and integrating into generative workflows through embedding.&lt;/p&gt;&#xA;&lt;p&gt;Liby also coordinates multiple AI agents and different LLM models, to collectiveley improve textual generation through a methodology known as reflection.&#xA;&lt;img src=&#34;https://deeplearn.ltd/libby.jpeg&#34; alt=&#34;Libby&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Retrieval Enhanced Generation</title>
-      <link>http://localhost:1313/team/reg/</link>
+      <link>https://deeplearn.ltd/team/reg/</link>
       <pubDate>Mon, 08 Apr 2024 12:59:31 -0300</pubDate>
-      <guid>http://localhost:1313/team/reg/</guid>
+      <guid>https://deeplearn.ltd/team/reg/</guid>
       <description>&lt;h1 id=&#34;retrieval-enhanced-generation&#34;&gt;Retrieval Enhanced Generation&lt;/h1&gt;&#xA;&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;A popular application in AI is the generation of text, and data analysis products based on existing knowledge. This is a challenging task, as it requires the model to understand the context of the input data and generate meaningful output. Structured Data such as relational databases and unstructured data such as text, images, and videos are used as context for the generative models.&lt;/p&gt;&#xA;&lt;p&gt;At DeepLearn we call this task &lt;em&gt;Retrieval Enhanced Generation (REG)&lt;/em&gt;. We have developed a novel approach to REG that combines the strengths of retrieval-based and generative models, and enhance them with an AI based process that facilitates the elicitation of the users&amp;rsquo; analytical needs.&lt;/p&gt;</description>
     </item>
   </channel>
