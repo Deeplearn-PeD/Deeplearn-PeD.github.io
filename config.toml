@@ -18,7 +18,7 @@ filename = "sitemap.xml"
 [params]
 site_logo = "logo2.png"
 favicon = 'favicon2.png'
-description = 'DeepLearn Research & Development'
+description = 'Epidemic Intelligence Solutions - AI-powered disease forecasting and outbreak detection'
 
 [params.social]
 name = "github"
@@ -27,11 +27,11 @@ label = "Our Github Organization"
 
 
 [languages.en]
-title = 'DeepLearn Research & Development'
+title = 'DeepLearn - Epidemic Intelligence'
 languageName = 'English'
 weight = 1
 
 [languages.pt]
-title = 'DeepLearn Pesquisa e Desenvolvimento'
+title = 'DeepLearn - Inteligência Epidemiológica'
 languageName = 'Portuguese'
 weight = 2

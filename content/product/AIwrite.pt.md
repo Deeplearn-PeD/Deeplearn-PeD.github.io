@@ -1,13 +1,38 @@
 ---
-title: "AIwrite chegou!"
+title: "EpiReport: Relatórios de Inteligência em Saúde com IA"
 date: 2025-08-21T17:10:06-03:00
 draft: false
+featured_image: "/epireport-demo.png"
 ---
 
-Muitas pessoas usam IA para ajudá-las a escrever documentos, especialmente documentos profissionais, mas usar ferramentas online padrão para escrever é muito trabalhoso, envolvendo muitas operações de copiar e colar, e tende a gerar textos muito genéricos e impossíveis de usar diretamente sem uma extensa edição manual.
+## Geração Automatizada de Relatórios Epidemiológicos
 
-Para ajudar nesse tipo de tarefa, desenvolvemos o AIWrite, um gerador de texto muito simples que utiliza o agente de IA de sua escolha, que não só permite especificar de forma adequada e fácil a estrutura de documentos técnicos, como também facilita o fornecimento de informações de IA da sua área específica de especialização, na forma de um conjunto de documentos de referência, para que o agente de IA escreva como um profissional, não como um novato!
+O **EpiReport** é um sistema inteligente de geração de relatórios projetado especificamente para profissionais de saúde pública. Transforma dados epidemiológicos brutos em relatórios de inteligência bem estruturados e prontos para publicação—economizando horas de escrita e formatação manual.
 
-O AiWrite também permite que você colabore na escrita e oferece críticas construtivas em qualquer etapa do processo. Ao terminar, você pode simplesmente salvar o texto e carregá-lo em seu editor de texto favorito para a formatação final.
+### Projetado para Saúde Pública
 
-Experimente na [versão demo web do AIWrite](https://aiwrite.deeplearn.ltd) e entre em contato conosco se quiser integrá-lo à sua rotina de escrita.
+Diferente de ferramentas genéricas de escrita com IA, o EpiReport entende terminologia epidemiológica, padrões de relatórios estatísticos e requisitos de comunicação em saúde pública:
+
+- **Relatórios de Situação**: Gere resumos semanais de surtos com integração automática de dados
+- **Boletins Epidemiológicos**: Crie relatórios técnicos com descrições estatísticas adequadas
+- **Briefings de Política**: Transforme achados complexos em recomendações acionáveis para tomadores de decisão
+- **Manuscritos de Pesquisa**: Estruture estudos epidemiológicos seguindo padrões acadêmicos
+
+### Como Funciona
+
+1. **Carregue seus dados** - Conecte-se a sistemas de vigilância ou carregue conjuntos de dados
+2. **Selecione o tipo de relatório** - Escolha entre relatórios de situação, boletins ou modelos personalizados
+3. **A IA redige o relatório** - O EpiReport gera conteúdo estruturado com terminologia epidemiológica adequada
+4. **Refinamento colaborativo** - Revise, edite e aprimore com sugestões assistidas por IA
+5. **Exporte e compartilhe** - Baixe no formato preferido ou publique diretamente
+
+### Principais Recursos
+
+- **Escrita consciente de referências**: Forneça relatórios anteriores ou guias de estilo para que o EpiReport escreva na voz da sua organização
+- **Automação de dados para texto**: Gere automaticamente descrições de tendências, tabelas e figuras
+- **Gerenciamento de citações**: Formate corretamente referências a sistemas de vigilância e relatórios anteriores
+- **Suporte multi-idioma**: Gere relatórios em inglês, português e outros idiomas para colaboração internacional
+
+---
+
+*Experimente o EpiReport em **[aiwrite.deeplearn.ltd](https://aiwrite.deeplearn.ltd)** ou [entre em contato](/contact) para licenciamento institucional.*

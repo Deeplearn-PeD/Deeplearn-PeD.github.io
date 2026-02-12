@@ -1,17 +1,26 @@
 ---
-title: "Retrieval Enhanced Generation"
+title: "EpiBot: Epidemiological Intelligence Agent"
 date: 2024-04-08T12:59:31-03:00
 featured_image: "/reggie.jpeg"
 draft: False
 ---
 
-# Retrieval Enhanced Generation
+# EpiBot: Your AI Partner in Epidemiological Research
 
 ## Abstract
-A popular application in AI is the generation of text, and data analysis products based on existing knowledge. This is a challenging task, as it requires the model to understand the context of the input data and generate meaningful output. Structured Data such as relational databases and unstructured data such as text, images, and videos are used as context for the generative models. 
+Public health professionals need rapid access to complex epidemiological data, but traditional database queries require technical expertise that slows down critical decision-making. **EpiBot** bridges this gap by combining natural language processing with deep epidemiological domain knowledge.
 
-At DeepLearn we call this task *Retrieval Enhanced Generation (REG)*. We have developed a novel approach to REG that combines the strengths of retrieval-based and generative models, and enhance them with an AI based process that facilitates the elicitation of the users' analytical needs. 
+At DeepLearn, we've developed EpiBot as a specialized implementation of *Retrieval Enhanced Generation (REG)* tailored for public health. EpiBot understands epidemiological terminology, recognizes patterns in disease surveillance data, and translates plain-English questions into sophisticated database queries—delivering insights in seconds rather than hours.
 
-## Team lead
-- [Reggie D. Bot](/team/REG.md) (Team Leader) Reggie is an AI bot  that specializes in the generation of text and data analysis products based on existing knowledge. Reggie orchestrates a number of different AI models to generate the best possible output for the user. Reggie is a state-of-the-art AI model that is constantly learning and improving.
+## Capabilities
+
+- **Natural language epidemiological queries** - Ask questions like humans do
+- **Intelligent data interpretation** - Understands incidence rates, attack rates, and outbreak thresholds
+- **Multi-source integration** - Connects across surveillance systems, research databases, and public health registries
+- **Real-time analysis** - Processes data streams for immediate situational awareness
+
+## Meet the Team Lead
+
+**Reggie D. Bot** (Team Leader) - Reggie is our AI epidemiologist who orchestrates multiple machine learning models to understand your questions, retrieve relevant data, and generate actionable insights. Constantly learning from new datasets and public health literature, Reggie represents the cutting edge of epidemic intelligence.
+
 ![Reggie](/reggie.jpeg)

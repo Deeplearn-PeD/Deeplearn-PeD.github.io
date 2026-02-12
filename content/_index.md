@@ -1,18 +1,20 @@
 ---
 title: ""
 date: 2023-01-25T16:55:13-03:00
-featured_image: "/AI_diffusion2.png"
+featured_image: "/epidemic-hero.png"
 draft: false
 ---
 
-# Deeplearn: An AI team for Intelligent services.
+# Deeplearn: Epidemic Intelligence Solutions
 
-Deeplearn is an AI first company. This means that our mission is to develop the most efficient and friendly AI assistants for our customers. We are a team of AI experts that are passionate about AI and its potential to change the world. We believe that AI can be used to solve some of the most challenging problems that we face today. Our goal is to make AI accessible to everyone, and to help our customers achieve their goals with the help of AI.
+We are specialists in **epidemic intelligence**—the intersection of artificial intelligence and public health. Our mission is to transform complex epidemiological data into actionable insights that help public health officials, researchers, and policymakers make informed decisions during health emergencies and beyond.
+
+By combining cutting-edge machine learning with deep expertise in disease dynamics, we build tools that forecast outbreaks, detect anomalies in real-time, and simplify access to complex health databases through intelligent AI agents.
 
 
-## Our Services
+## Our Expertise
 
-1. **AI Consulting**: We provide consulting services to help our customers understand how AI can be used to solve their problems. We work closely with our customers to develop AI solutions that are tailored to their needs.
-2. **AI Development**: We develop AI models that are tailored to our customers' needs. Our AI models are state-of-the-art and are constantly learning and improving.
-3. **AI Training**: We provide training services to help our customers understand how AI works and how it can be used to solve their problems. We offer both online and in-person training sessions.
+1. **Disease Forecasting**: Predictive models for infectious disease trends using state-of-the-art machine learning. We help you anticipate epidemic curves and allocate resources effectively.
+2. **Outbreak Detection**: Real-time surveillance systems that identify unusual patterns in health data, enabling rapid response to emerging threats.
+3. **Epidemiological AI Agents**: Intelligent assistants that make complex health databases accessible through natural language, accelerating research and decision-making.
 

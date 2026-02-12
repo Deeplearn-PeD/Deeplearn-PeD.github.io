@@ -1,0 +1,168 @@
+/* DeepLearn Epidemic Intelligence Theme
+ * Public health inspired color palette
+ * Primary: Teal (#0d7377) - Trust, medical, calm
+ * Secondary: Deep Blue (#1a5f7a) - Professional, stability
+ * Accent: Alert Red (#e63946) - Urgency, outbreaks, action
+ * Neutral: Slate (#457b9d) - Data, analytical
+ */
+
+:root {
+  /* Primary brand colors */
+  --primary: #0d7377;
+  --primary-dark: #095457;
+  --primary-light: #14919a;
+  
+  /* Secondary colors */
+  --secondary: #1a5f7a;
+  --secondary-dark: #124a5e;
+  --secondary-light: #267a99;
+  
+  /* Accent colors */
+  --accent: #e63946;
+  --accent-dark: #c92a37;
+  --accent-light: #f06570;
+  
+  /* Neutral colors */
+  --neutral: #457b9d;
+  --neutral-light: #a8dadc;
+  --neutral-dark: #1d3557;
+  
+  /* Background and text */
+  --bg-light: #f1faee;
+  --text-dark: #1d3557;
+  --text-light: #f1faee;
+  
+  /* Ananke theme overrides */
+  --site-color: var(--primary);
+  --link-color: var(--secondary);
+  --link-hover: var(--primary);
+}
+
+/* Override Ananke theme variables */
+.bg-primary {
+  background-color: var(--primary) !important;
+}
+
+.bg-secondary {
+  background-color: var(--secondary) !important;
+}
+
+.bg-accent {
+  background-color: var(--accent) !important;
+}
+
+.text-primary {
+  color: var(--primary) !important;
+}
+
+.text-secondary {
+  color: var(--secondary) !important;
+}
+
+.link {
+  color: var(--secondary);
+  transition: color 0.2s ease;
+}
+
+.link:hover {
+  color: var(--primary);
+}
+
+/* Button styling */
+.btn {
+  border-radius: 4px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.btn-primary {
+  background-color: var(--primary);
+  border-color: var(--primary);
+}
+
+.btn-primary:hover {
+  background-color: var(--primary-dark);
+  border-color: var(--primary-dark);
+}
+
+.btn-accent {
+  background-color: var(--accent);
+  border-color: var(--accent);
+  color: white;
+}
+
+.btn-accent:hover {
+  background-color: var(--accent-dark);
+  border-color: var(--accent-dark);
+}
+
+/* Header and navigation */
+.site-header {
+  background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+}
+
+.site-nav a {
+  color: var(--text-light);
+}
+
+.site-nav a:hover {
+  color: var(--neutral-light);
+}
+
+/* Hero section */
+.hero-section {
+  background: linear-gradient(135deg, var(--secondary-dark) 0%, var(--primary) 50%, var(--secondary) 100%);
+  color: var(--text-light);
+}
+
+/* Cards and content boxes */
+.card {
+  border: 1px solid var(--neutral-light);
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  border-color: var(--primary-light);
+}
+
+/* Product/feature highlights */
+.feature-highlight {
+  border-left: 4px solid var(--accent);
+  padding-left: 1rem;
+  background: linear-gradient(90deg, rgba(230, 57, 70, 0.05) 0%, transparent 100%);
+}
+
+/* Footer */
+.site-footer {
+  background-color: var(--neutral-dark);
+  color: var(--text-light);
+}
+
+.site-footer a {
+  color: var(--neutral-light);
+}
+
+.site-footer a:hover {
+  color: var(--primary-light);
+}
+
+/* Epidemic-specific utility classes */
+.alert-epidemic {
+  background-color: rgba(230, 57, 70, 0.1);
+  border: 1px solid var(--accent);
+  border-radius: 4px;
+  padding: 1rem;
+}
+
+.data-highlight {
+  background-color: rgba(13, 115, 119, 0.1);
+  border-left: 3px solid var(--primary);
+  padding: 0.5rem 1rem;
+}
+
+/* Smooth transitions */
+* {
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
